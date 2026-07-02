@@ -3,9 +3,9 @@
 **Spot · Futures · DEX Trading** — All from a single account.
 
 [![Website](https://img.shields.io/badge/vurax.io-000?style=flat&logo=safari)](https://vurax.io)
-[![X](https://img.shields.io/badge/X-000?style=flat&logo=x)](https://x.com/vurax)
+[![X](https://img.shields.io/badge/X-000?style=flat&logo=x)](https://x.com/vurax_io)
 [![Discord](https://img.shields.io/badge/Discord-000?style=flat&logo=discord)](https://discord.gg/vurax)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat&logo=telegram)](https://t.me/vurax)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat&logo=telegram)](https://t.me/v_urax)
 
 ---
 
